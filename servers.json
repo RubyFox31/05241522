@@ -51,6 +51,10 @@
         {
             "name": "Jayden's Server",
             "address": "https://ani.jaydenha.uk"
+        },
+        {
+            "name": "GH",
+            "address": "http://8.153.102.55:35535"
         }
     ]
 }
